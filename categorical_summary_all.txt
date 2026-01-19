@@ -255,6 +255,7 @@ Useful for decentralized currency (i.e., Bitcoin): 900
 True: 7251
 False: 4049
 
+
 === ITperson (distinct=4) ===
 Yes: 5793
 SIGH: 3115
