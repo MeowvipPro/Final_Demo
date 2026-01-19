@@ -1,0 +1,417 @@
+CATEGORICAL VARIABLE SUMMARY (Grouped by Respondent)
+============================================================
+
+=== MainBranch (distinct=2) ===
+I am a developer by profession: 10618
+I am not primarily a developer, but I write code sometimes as part of my work: 780
+
+=== OpenSourcer (distinct=4) ===
+Never: 3652
+Less than once per year: 3556
+Less than once a month but more than once per year: 2934
+Once a month or more often: 1256
+
+=== OpenSource (distinct=3) ===
+The quality of OSS and closed source software is about the same: 5468
+OSS is, on average, of HIGHER quality than proprietary / closed source software: 4825
+OSS is, on average, of LOWER quality than proprietary / closed source software: 1024
+
+=== Employment (distinct=2) ===
+Employed full-time: 10968
+Employed part-time: 430
+
+--- SKIPPED Country (distinct=135) ---
+
+=== Student (distinct=3) ===
+No: 9658
+Yes, full-time: 1016
+Yes, part-time: 673
+
+=== EdLevel (distinct=9) ===
+Bachelor’s degree (BA, BS, B.Eng., etc.): 5852
+Master’s degree (MA, MS, M.Eng., MBA, etc.): 2706
+Some college/university study without earning a degree: 1361
+Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.): 516
+Associate degree: 383
+Other doctoral degree (Ph.D, Ed.D., etc.): 259
+Professional degree (JD, MD, etc.): 154
+I never completed any formal education: 28
+Primary/elementary school: 27
+
+=== UndergradMajor (distinct=12) ===
+Computer science, computer engineering, or software engineering: 6953
+Information systems, information technology, or system administration: 794
+Another engineering discipline (ex. civil, electrical, mechanical): 759
+Web development or web design: 410
+A natural science (ex. biology, chemistry, physics): 403
+Mathematics or statistics: 372
+A business discipline (ex. accounting, finance, marketing): 244
+A social science (ex. anthropology, psychology, political science): 210
+A humanities discipline (ex. literature, history, philosophy): 207
+Fine arts or performing arts (ex. graphic design, music, studio art): 161
+I never declared a major: 124
+A health science (ex. nursing, pharmacy, radiology): 24
+
+--- SKIPPED EduOther (distinct=397) ---
+
+=== OrgSize (distinct=9) ===
+20 to 99 employees: 2712
+100 to 499 employees: 2261
+10,000 or more employees: 1554
+1,000 to 4,999 employees: 1259
+10 to 19 employees: 1184
+2-9 employees: 981
+500 to 999 employees: 848
+5,000 to 9,999 employees: 487
+Just me - I am a freelancer, sole proprietor, etc.: 16
+
+--- SKIPPED DevType (distinct=2756) ---
+
+--- SKIPPED YearsCode (distinct=51) ---
+
+--- SKIPPED Age1stCode (distinct=40) ---
+
+--- SKIPPED YearsCodePro (distinct=47) ---
+
+=== CareerSat (distinct=5) ===
+Very satisfied: 4777
+Slightly satisfied: 4061
+Slightly dissatisfied: 1122
+Neither satisfied nor dissatisfied: 934
+Very dissatisfied: 504
+
+=== JobSat (distinct=5) ===
+Slightly satisfied: 3977
+Very satisfied: 3539
+Slightly dissatisfied: 1823
+Neither satisfied nor dissatisfied: 1285
+Very dissatisfied: 773
+
+=== MgrIdiot (distinct=4) ===
+Somewhat confident: 4617
+Very confident: 4229
+Not at all confident: 1756
+I don't have a manager: 303
+
+=== MgrMoney (distinct=2) ===
+False: 5734
+True: 3214
+
+=== MgrWant (distinct=4) ===
+Not sure: 4034
+No: 3536
+Yes: 2804
+I am already a manager: 531
+
+=== JobSeek (distinct=3) ===
+I’m not actively looking, but I am open to new opportunities: 6984
+I am not interested in new job opportunities: 3159
+I am actively looking for a job: 1255
+
+=== LastHireDate (distinct=6) ===
+Less than a year ago: 3800
+1-2 years ago: 3378
+More than 4 years ago: 2268
+3-4 years ago: 1891
+NA - I am an independent contractor or self employed: 44
+I've never had a job: 17
+
+--- SKIPPED LastInt (distinct=63) ---
+
+=== FizzBuzz (distinct=2) ===
+False: 9431
+True: 1930
+
+--- SKIPPED JobFactors (distinct=157) ---
+
+=== ResumeUpdate (distinct=6) ===
+I was preparing for a job search: 4813
+My job status changed (promotion, new job, etc.): 2200
+I heard about a job opportunity (from a recruiter, online job posting, etc.): 1652
+Something else changed (education, award, media, etc.): 1406
+I had a negative experience or interaction at work: 1151
+Re-entry into the workforce: 137
+
+--- SKIPPED CurrencySymbol (distinct=102) ---
+
+--- SKIPPED CurrencyDesc (distinct=102) ---
+
+=== CompFreq (distinct=3) ===
+Yearly: 6073
+Monthly: 4788
+Weekly: 331
+
+=== WorkPlan (distinct=3) ===
+There is a schedule and/or spec (made by me or by a colleague), and my work somewhat aligns: 6027
+There's no schedule or spec; I work on what seems most important or urgent: 3054
+There is a schedule and/or spec (made by me or by a colleague), and I follow it very closely: 2196
+
+--- SKIPPED WorkChallenge (distinct=129) ---
+
+=== WorkRemote (distinct=7) ===
+Less than once per month / Never: 5100
+A few days each month: 3213
+Less than half the time, but at least one day each week: 1097
+All or almost all the time (I'm full-time remote): 961
+It's complicated: 461
+More than half, but not all, the time: 299
+About half the time: 259
+
+=== WorkLoc (distinct=3) ===
+Office: 6806
+Home: 3589
+Other place, such as a coworking space or cafe: 971
+
+=== ImpSyn (distinct=5) ===
+A little above average: 5389
+Average: 2614
+Far above average: 2400
+A little below average: 801
+Far below average: 189
+
+=== CodeRev (distinct=3) ===
+Yes, because I see value in code review: 8317
+No: 2229
+Yes, because I was told to do so: 851
+
+=== UnitTests (distinct=4) ===
+Yes, it's part of our process: 4719
+No, but I think we should: 3863
+Yes, it's not part of our process but the developers do it on their own: 2347
+No, and I'm glad we don't: 440
+
+=== PurchaseHow (distinct=4) ===
+Developers and management have nearly equal input into purchasing new technology: 3983
+The CTO, CIO, or other management purchase new technology typically without the involvement of developers: 2514
+Developers typically have the most influence on purchasing new technology: 2450
+Not sure: 2255
+
+=== PurchaseWhat (distinct=3) ===
+I have little or no influence: 4716
+I have some influence: 4519
+I have a great deal of influence: 2125
+
+--- SKIPPED LanguageWorkedWith (distinct=4534) ---
+
+--- SKIPPED LanguageDesireNextYear (distinct=6052) ---
+
+--- SKIPPED DatabaseWorkedWith (distinct=1560) ---
+
+--- SKIPPED DatabaseDesireNextYear (distinct=1678) ---
+
+--- SKIPPED PlatformWorkedWith (distinct=2876) ---
+
+--- SKIPPED PlatformDesireNextYear (distinct=3390) ---
+
+--- SKIPPED WebFrameWorkedWith (distinct=1002) ---
+
+--- SKIPPED WebFrameDesireNextYear (distinct=1017) ---
+
+--- SKIPPED MiscTechWorkedWith (distinct=894) ---
+
+--- SKIPPED MiscTechDesireNextYear (distinct=1752) ---
+
+--- SKIPPED DevEnviron (distinct=2173) ---
+
+=== OpSys (distinct=4) ===
+Windows: 5179
+MacOS: 3532
+Linux-based: 2645
+BSD: 8
+
+=== Containers (distinct=16) ===
+I do not use containers: 4170
+Development;Testing;Production: 1313
+Development;Testing;Production;Outside of work, for personal projects: 1229
+Outside of work, for personal projects: 925
+Development: 776
+Development;Testing: 589
+Development;Testing;Outside of work, for personal projects: 429
+Development;Outside of work, for personal projects: 368
+Development;Production: 354
+Production: 311
+Testing: 241
+Testing;Production: 237
+Development;Production;Outside of work, for personal projects: 172
+Testing;Outside of work, for personal projects: 85
+Production;Outside of work, for personal projects: 64
+Testing;Production;Outside of work, for personal projects: 53
+
+=== BlockchainOrg (distinct=5) ===
+Not at all: 7215
+Non-currency applications of blockchain: 1209
+Implementing cryptocurrency-based products: 384
+Accepting Bitcoin or other coins and tokens as payments: 152
+Implementing our own cryptocurrency: 116
+
+=== BlockchainIs (distinct=5) ===
+Useful for immutable record keeping outside of currency: 2601
+Useful across many domains and could change many aspects of our lives: 2425
+A passing fad: 1521
+An irresponsible use of resources: 1341
+Useful for decentralized currency (i.e., Bitcoin): 900
+
+=== BetterLife (distinct=2) ===
+True: 7251
+False: 4049
+
+=== ITperson (distinct=4) ===
+Yes: 5793
+SIGH: 3115
+Also Yes: 1666
+Fortunately, someone else has that title: 789
+
+=== OffOn (distinct=2) ===
+True: 9432
+False: 815
+
+=== SocialMedia (distinct=14) ===
+Reddit: 2272
+WhatsApp: 1766
+Facebook: 1753
+Twitter: 1671
+YouTube: 1522
+Instagram: 828
+I don't use social media: 557
+LinkedIn: 518
+WeChat 微信: 83
+Snapchat: 65
+VK ВКонта́кте: 61
+Weibo 新浪微博: 6
+Youku Tudou 优酷: 2
+Hello: 1
+
+=== Extraversion (distinct=3) ===
+In real life (in person): 7162
+Online: 3206
+Neither: 1010
+
+=== ScreenName (distinct=5) ===
+Username: 8182
+Login: 1115
+UserID: 797
+Handle: 545
+Screen Name: 252
+
+=== SOVisitFreq (distinct=6) ===
+Multiple times per day: 3992
+Daily or almost daily: 3862
+A few times per week: 2363
+A few times per month or weekly: 997
+Less than once per month or monthly: 178
+I have never visited Stack Overflow (before today): 1
+
+--- SKIPPED SOVisitTo (distinct=58) ---
+
+=== SOFindAnswer (distinct=5) ===
+3-5 times per week: 3288
+1-2 times per week: 2965
+More than 10 times per week: 2022
+6-10 times per week: 1873
+Less than once per week: 1247
+
+=== SOTimeSaved (distinct=5) ===
+Stack Overflow was much faster: 6320
+Stack Overflow was slightly faster: 2941
+They were about the same: 1823
+The other resource was slightly faster: 185
+The other resource was much faster: 79
+
+=== SOHowMuchTime (distinct=4) ===
+11-30 minutes: 3955
+0-10 minutes: 2040
+31-60 minutes: 1922
+60+ minutes: 1564
+
+=== SOAccount (distinct=2) ===
+True: 10275
+False: 721
+
+=== SOPartFreq (distinct=6) ===
+Less than once per month or monthly: 4385
+I have never participated in Q&A on Stack Overflow: 2048
+A few times per month or weekly: 2018
+A few times per week: 1005
+Daily or almost daily: 538
+Multiple times per day: 276
+
+=== SOJobs (distinct=3) ===
+Yes: 6387
+No, I knew that Stack Overflow had a job board but have never used or visited it: 3922
+No, I didn't know that Stack Overflow had a job board: 1083
+
+=== EntTeams (distinct=3) ===
+No, and I don't know what those are: 5470
+No, I've heard of them, but I am not part of a private Q&A instance: 5467
+Yes: 456
+
+=== SOComm (distinct=6) ===
+Yes, somewhat: 3873
+No, not really: 2516
+Neutral: 2250
+Yes, definitely: 2070
+No, not at all: 616
+Not sure: 73
+
+=== WelcomeChange (distinct=6) ===
+Just as welcome now as I felt last year: 8704
+Somewhat more welcome now than last year: 1158
+A lot more welcome now than last year: 558
+Somewhat less welcome now than last year: 510
+A lot less welcome now than last year: 233
+Not applicable - I did not use Stack Overflow last year: 150
+
+=== SONewContent (distinct=15) ===
+Tech articles written by other developers;Industry news about technologies you're interested in;Tech meetups or events in your area;Courses on technologies you're interested in: 2099
+Tech articles written by other developers: 892
+Tech articles written by other developers;Courses on technologies you're interested in: 806
+Tech articles written by other developers;Industry news about technologies you're interested in: 796
+Tech articles written by other developers;Tech meetups or events in your area;Courses on technologies you're interested in: 723
+Tech articles written by other developers;Industry news about technologies you're interested in;Courses on technologies you're interested in: 715
+Tech articles written by other developers;Industry news about technologies you're interested in;Tech meetups or events in your area: 565
+Tech meetups or events in your area: 556
+Tech meetups or events in your area;Courses on technologies you're interested in: 544
+Tech articles written by other developers;Tech meetups or events in your area: 525
+Courses on technologies you're interested in: 488
+Industry news about technologies you're interested in;Tech meetups or events in your area: 198
+Industry news about technologies you're interested in;Tech meetups or events in your area;Courses on technologies you're interested in: 180
+Industry news about technologies you're interested in: 177
+Industry news about technologies you're interested in;Courses on technologies you're interested in: 169
+
+=== Gender (distinct=7) ===
+Man: 10480
+Woman: 731
+Non-binary, genderqueer, or gender non-conforming: 63
+Man;Non-binary, genderqueer, or gender non-conforming: 26
+Woman;Non-binary, genderqueer, or gender non-conforming: 14
+Woman;Man: 9
+Woman;Man;Non-binary, genderqueer, or gender non-conforming: 2
+
+=== Trans (distinct=2) ===
+False: 11196
+True: 79
+
+=== Sexuality (distinct=7) ===
+Straight / Heterosexual: 10066
+Bisexual: 453
+Gay or Lesbian: 249
+Bisexual;Straight / Heterosexual: 66
+Bisexual;Gay or Lesbian: 13
+Bisexual;Gay or Lesbian;Straight / Heterosexual: 7
+Gay or Lesbian;Straight / Heterosexual: 2
+
+--- SKIPPED Ethnicity (distinct=89) ---
+
+=== Dependents (distinct=2) ===
+False: 6699
+True: 4559
+
+=== SurveyLength (distinct=3) ===
+Appropriate in length: 8048
+Too long: 3111
+Too short: 220
+
+=== SurveyEase (distinct=3) ===
+Easy: 8245
+Neither easy nor difficult: 2999
+Difficult: 140

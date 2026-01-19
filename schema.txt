@@ -1,0 +1,126 @@
+Tên Cột 
+(Column Name)
+Câu hỏi Khảo sát 
+(Question Text)
+Respondent
+Mã ID người trả lời được ngẫu nhiên hóa (không theo thứ tự thời gian trả lời khảo sát)
+MainBranch
+Lựa chọn nào sau đây mô tả đúng nhất về bạn? 
+Ở đây, "nhà phát triển" (developer) có nghĩa là "người viết mã" (someone who writes code).
+Hobbyist
+Sở thích của bạn có phải là viết Code không?
+OpenSourcer
+Tần suất bạn đóng góp vào mã nguồn mở (open source)?
+OpenSource
+Bạn cảm thấy thế nào về chất lượng của phần mềm mã nguồn mở (OSS)?
+Employment
+Tình trạng việc làm hiện tại của bạn?
+Country
+Bạn hiện đang cư trú ở quốc gia nào?
+Student
+Hiện tại bạn phải là sinh viên không?
+EdLevel
+Trình độ học vấn chính quy cao nhất mà bạn đã hoàn thành? 
+Undergrad Major
+Lĩnh vực học tập chính hoặc làm việc của bạn là gì?
+EduOther
+Bạn đã tham gia vào các khóa học ngắn hạn không? Vui lòng chọn tất cả các mục áp dụng.
+OrgSize
+Quy mô nhân sự tại công ty mà bạn đang làm việc?
+DevType
+Những điều nào sau đây mô tả về bạn? Vui lòng chọn tất cả các mục áp dụng.
+YearsCode
+Số năm kinh nghiệm của bạn trong việc viết code? 
+AgelstCode
+Bạn bắt đầu viết dòng mã hoặc chương trình đầu tiên ở độ tuổi nào? (Ví dụ: trang web, Hello World, dự án Scratch)
+YearsCodePro
+Bạn đã viết mã chuyên nghiệp (như một phần công việc) được bao nhiêu năm?
+CareerSat
+Nhìn chung, bạn hài lòng đến mức nào với công việc hiện tại của mình cho đến nay?
+JobSat
+Bạn hài lòng với công việc hiện tại của mình? (Nếu bạn làm nhiều công việc, hãy trả lời cho công việc bạn dành nhiều giờ nhất)
+MgrIdiot
+Bạn đánh giá thế nào về sự hỗ trợ của quản lý trong công việc?
+MgrWant
+Bạn có định hướng trở thành quản lý trong tương lai không?
+JobSeek
+Lựa chọn nào sau đây mô tả đúng nhất tình trạng tìm kiếm việc làm hiện tại của bạn?
+LastHireDate
+Lần cuối cùng bạn nhận một công việc với một nhà tuyển dụng mới là khi nào?
+LastInt
+Trong cuộc phỏng vấn xin việc thành công gần đây nhất của bạn (dẫn đến lời mời làm việc), bạn đã được yêu cầu... (chọn tất cả các mục áp dụng)
+FizzBuzz
+Bạn đã bao giờ được yêu cầu giải quyết bài toán FizzBuzz trong một cuộc phỏng vấn chưa?
+JobFactors
+Hãy tưởng tượng bạn đang quyết định giữa hai lời mời làm việc có cùng mức lương, phúc lợi và địa điểm. Trong các yếu tố sau, 3 yếu tố nào là QUAN TRỌNG NHẤT đối với bạn?
+ResumeUpdate
+Nghĩ lại lần cuối cùng bạn cập nhật CV trên trang web việc làm. Lý do CHÍNH mà bạn làm vậy là gì?
+CompTotal
+Tổng thu nhập hiện tại của bạn (lương, tiền thưởng và phúc lợi, trước thuế và các khoản khấu trừ), bằng CurrencySymbol là bao nhiêu? Vui lòng nhập một số nguyên trong ô bên dưới, không có bất kỳ dấu câu nào. Nếu bạn được trả lương theo giờ, vui lòng ước tính mức lương tương đương hàng tuần, hàng tháng hoặc hàng năm. Nếu bạn không muốn trả lời, vui lòng để trống ô.
+WorkWeekHrs
+Trung bình, bạn làm việc bao nhiêu giờ mỗi tuần?
+WorkPlan
+Công việc của bạn có được lên kế hoạch cụ thể không?
+WorkChallenge
+Trong những lựa chọn này, đâu là những thách thức lớn nhất đối với năng suất của bạn với tư cách là một nhà phát triển? Chọn tối đa 3.
+WorkRemote
+Tần suất bạn làm việc từ xa?
+WorkLoc
+Bạn muốn làm việc ở đâu?
+ImpSyn
+Đối với công việc cụ thể bạn làm và số năm kinh nghiệm bạn có, bạn đánh giá mức độ năng lực của bản thân như thế nào?
+CodeRev
+Bạn có xem xét mã (code review) như một phần công việc của mình không?
+CodeRevHrs
+Trung bình, bạn dành bao nhiêu giờ mỗi tuần cho việc xem xét mã?
+Unit Tests
+Công ty của bạn có thường xuyên áp dụng kiểm thử đơn vị (unit tests) trong quá trình phát triển sản phẩm của họ không?
+PurchaseHow
+Công ty bạn đưa ra quyết định mua công nghệ mới (điện toán đám mây, AI, IoT, cơ sở dữ liệu) như thế nào?
+PurchaseWhat
+Cá nhân bạn có mức độ ảnh hưởng nào đối với việc mua công nghệ mới tại tổ chức của bạn?
+Language Worked With
+Bạn đã thực hiện công việc phát triển chuyên sâu với ngôn ngữ lập trình, tập lệnh và đánh dấu nào sau đây trong năm qua, và bạn muốn làm việc với ngôn ngữ nào trong năm tới? (Nếu bạn vừa làm việc với ngôn ngữ đó và muốn tiếp tục làm việc, vui lòng chọn cả hai ô trong hàng đó).
+Language DesireNext Year
+Bạn đã thực hiện công việc phát triển chuyên sâu với ngôn ngữ lập trình, tập lệnh và đánh dấu nào sau đây trong năm qua, và bạn muốn làm việc với ngôn ngữ nào trong năm tới? (Nếu bạn vừa làm việc với ngôn ngữ đó và muốn tiếp tục làm việc, vui lòng chọn cả hai ô trong hàng đó).
+Database Worked With
+Bạn đã thực hiện công việc phát triển chuyên sâu với môi trường cơ sở dữ liệu nào sau đây trong năm qua, và bạn muốn làm việc với môi trường cơ sở dữ liệu nào trong năm tới? (Nếu bạn vừa làm việc với cơ sở dữ liệu đó và muốn tiếp tục làm việc, vui lòng chọn cả hai ô trong hàng đó).
+Database Desire Next Year
+Bạn đã thực hiện công việc phát triển chuyên sâu với môi trường cơ sở dữ liệu nào sau đây trong năm qua, và bạn muốn làm việc với môi trường cơ sở dữ liệu nào trong năm tới? (Nếu bạn vừa làm việc với cơ sở dữ liệu đó và muốn tiếp tục làm việc, vui lòng chọn cả hai ô trong hàng đó).
+Platform Worked With
+Bạn đã thực hiện công việc phát triển chuyên sâu cho nền tảng (platform) nào sau đây trong năm qua? (Nếu bạn vừa phát triển cho nền tảng đó và muốn tiếp tục làm việc, vui lòng chọn cả hai ô trong hàng đó).
+PlatformDesire Next Year
+Bạn đã thực hiện công việc phát triển chuyên sâu cho nền tảng nào sau đây trong năm qua? (Nếu bạn vừa phát triển cho nền tảng đó và muốn tiếp tục làm việc, vui lòng chọn cả hai ô trong hàng đó).
+WebFrameWorked With
+Bạn đã thực hiện công việc phát triển chuyên sâu với framework web nào sau đây trong năm qua, và bạn muốn làm việc với framework nào trong năm tới? (Nếu bạn vừa làm việc với framework đó và muốn tiếp tục làm việc, vui lòng chọn cả hai ô trong hàng đó).
+WebFrameDesireNextYear
+Bạn đã thực hiện công việc phát triển chuyên sâu với framework web nào sau đây trong năm qua, và bạn muốn làm việc với framework nào trong năm tới? (Nếu bạn vừa làm việc với framework đó và muốn tiếp tục làm việc, vui lòng chọn cả hai ô trong hàng đó).
+MiscTech Worked With
+Bạn đã thực hiện công việc phát triển chuyên sâu với framework, thư viện và công cụ nào khác sau đây trong năm qua, và bạn muốn làm việc với công nghệ nào trong năm tới? (Nếu bạn vừa làm việc với công nghệ đó và muốn tiếp tục làm việc, vui lòng chọn cả hai ô trong hàng đó).
+MiscTechDesire Next Year
+Bạn đã thực hiện công việc phát triển chuyên sâu với framework, thư viện và công cụ nào khác sau đây trong năm qua, và bạn muốn làm việc với công nghệ nào trong năm tới? (Nếu bạn vừa làm việc với công nghệ đó và muốn tiếp tục làm việc, vui lòng chọn cả hai ô trong hàng đó).
+DevEnviron
+Bạn thường xuyên sử dụng môi trường phát triển (development environment) nào? Vui lòng chọn tất cả các mục áp dụng.
+OpSys
+Hệ điều hành chính mà bạn làm việc là gì?
+Containers
+Bạn sử dụng container (Docker, Open Container Initiative (OCI), v.v.) như thế nào?
+BetterLife
+Bạn có nghĩ rằng những người sinh ra ngày nay sẽ có một chất lượng cuộc sống tốt hơn thế hệ trước không? 
+ITperson
+Bạn có phải là "người hỗ trợ CNTT" cho gia đình mình không?
+SocialMedia
+Trang mạng xã hội nào bạn sử dụng nhiều nhất?
+Extraversion
+Bạn thích trò chuyện trực tuyến (online chat) hay các cuộc trò chuyện ngoài đời thực (IRL conversations)?
+EntTeams
+Bạn đã bao giờ sử dụng Stack Overflow cho Doanh nghiệp (Stack Overflow for Enterprise) hoặc Stack Overflow cho Đội ngũ (Stack Overflow for Teams) chưa? 
+Age
+Tuổi của bạn là bao nhiêu (tính bằng năm)? Nếu bạn không muốn trả lời, bạn có thể để trống câu hỏi này.
+Gender
+Hiện tại bạn tự nhận dạng giới tính nào sau đây? Vui lòng chọn tất cả các mục áp dụng. Nếu bạn không muốn trả lời, bạn có thể để trống câu hỏi này.
+SurveyLength
+Bạn cảm thấy thế nào về độ dài của cuộc khảo sát năm nay? 
+SurveyEase
+Cuộc khảo sát này dễ hay khó để hoàn thành?
+
